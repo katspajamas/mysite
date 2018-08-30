@@ -1,0 +1,67 @@
+<!DOCTYPE-html>
+<meta charset="utf-8"/>
+<title></title>
+<html>
+
+<script>
+</script>
+
+<style>
+	nav{
+		background-color: pink;
+		padding: 40px 30px 40px 30px ;
+		box-sizing: content-box;
+		margin: .35%;
+		margin-bottom: .35%
+		float: left;
+		height: 525px;
+		width: 100px;
+		text-indent: break-text;
+		text-align: left;
+		font-family: helvetica;
+		position: fixed;
+	}
+	
+	p{
+		padding-bottom: 20px;
+	}
+	
+	.content{
+		background-color: pink;
+		padding: 40px 30px 40px 30px ;
+		margin-top: .35%;
+		margin-left: 200px;
+		margin-right: 10px;
+		
+		width: 850px;
+		height: 525px;
+		float: left;
+		position: relative;
+		
+	}
+
+	.mp{
+		background-color: pink;
+		padding: 40px 30px 40px 30px ;
+		box-sizing: content-box;
+		float: right;
+		height: 525px;
+		width: 150px;
+		margin-top: .35%;
+		margin-left: 0px;
+		
+	}
+</style>
+	
+	<h3></h3>
+	<nav>
+		
+	</nav>
+	
+	<div class="content">
+		<p>This is content</p>
+	</div>
+	<div class="mp">
+	
+	</div>
+</html>
